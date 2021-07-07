@@ -1,0 +1,8 @@
+{
+  "name": "IonicActivity",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "c25a4492"
+}
